@@ -1,6 +1,6 @@
 // objects can be created by literals and constructor
 
-// singleton
+// singleton in second part, in this is literals
 
 // object literals (Declare)
 
